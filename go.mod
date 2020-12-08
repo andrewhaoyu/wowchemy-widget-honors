@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-widget-starter
+module github.com/andrewhaoyu/wowchemy-widget-honors/
 
 go 1.15
